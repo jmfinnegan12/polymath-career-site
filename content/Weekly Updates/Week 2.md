@@ -35,7 +35,7 @@ After I wrote down the list, I was able to look at each item and decide exactly 
 
 Overwhelm and distraction go hand in hand. When overwhelmed with work, especially without a clear direction for that work, our brains seek a distraction. Distractions are everywhere and can quickly create a vicious cycle of procrastination and more distraction seeking. 
 
-I like [[Time Blocking]] to prevent these cycles because it forces me to focus on a clearly defined task for a manageable amount of time. Then when the time is up, I can do something else. The [[Pomodoro Method]] is a great time blocking approach to focused work. Another benefit of time blocking is that awareness of a time block cultivates awareness of focus on the task at hand. Like meditation, this trains the "focus muscle" to mindfully identify and ignore distractions.
+I like [[Websites/polymath-career-site/Notes/Time Blocking]] to prevent these cycles because it forces me to focus on a clearly defined task for a manageable amount of time. Then when the time is up, I can do something else. The [[Pomodoro Method]] is a great time blocking approach to focused work. Another benefit of time blocking is that awareness of a time block cultivates awareness of focus on the task at hand. Like meditation, this trains the "focus muscle" to mindfully identify and ignore distractions.
 
 Another strategy I like for preventing overwhelm is physically removing distractions from the space where I am working. The two big things I like to have out of sight are my cell phone and clutter. I don't have to try as hard to ignore them if they are out of sight (or even in another room for the cell phone) which frees up some mental capacity to focus on my task
 
