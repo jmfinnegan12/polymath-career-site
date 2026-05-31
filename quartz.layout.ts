@@ -5,7 +5,13 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Subscribe({
+      action: "https://magic.beehiiv.com/v1/2889dca4-8be3-4df1-9e2a-3e9eb3a95b79",
+      title: "Subscribe",
+      description: "Get the latest from Polymath Career in your inbox.",
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
