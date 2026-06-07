@@ -9,7 +9,7 @@ It's difficult for self-employed people and solo entrepreneurs to switch their m
 
 I encountered this challenge this week when I had some strong momentum on a project and I had social obligations coming up that afternoon. afternoon. I opted to continue working on the project and forego the social obligations. I ended up having a very productive day at work, although I ended up working five hours later than I had intended to. 
 
-Is this sort of behavior sustainable? No. Is it sometimes essential, especially in the early days of starting a business? Perhaps. Can it be avoided? Maybe. Can it be minimized. Absolutely. Here are two 
+Is this sort of behavior sustainable? No. Is it sometimes essential, especially in the early days of starting a business? Perhaps. Can it be avoided? Maybe. Can it be minimized. Absolutely. Here are two:
 
 
 - [[Defining Done]] -  I wrote last week about setting [[Three Priorities With Done Criteria]]. This is about how to think about what a "done criteria" are. 
